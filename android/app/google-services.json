@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831208137870",
+    "project_id": "grocery-mart-auth",
+    "storage_bucket": "grocery-mart-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831208137870:android:5533a2a83c7f66a1e455df",
+        "android_client_info": {
+          "package_name": "com.example.groceey_mart_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831208137870-9vp1rf7i7tms22t003tif5sg08dlle39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPGqBNhLCWthBE6vk7Jo3eIUm4iAMfLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831208137870-9vp1rf7i7tms22t003tif5sg08dlle39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
